@@ -1,0 +1,4 @@
+2024-10-17 01:02:08 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "SELECT * FROM BOOK_ENTITY BOOK_ENTITY BOOK_ENTITY[*]"
+Syntax error in SQL statement "SELECT * FROM BOOK_ENTITY BOOK_ENTITY BOOK_ENTITY[*]"; SQL statement:
+SELECT * FROM BOOK_ENTITY BOOK_ENTITY BOOK_ENTITY [42000-199]
