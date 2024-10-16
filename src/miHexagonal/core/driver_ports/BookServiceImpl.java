@@ -1,6 +1,7 @@
 package miHexagonal.core.driver_ports;
 
 import miHexagonal.core.domain.Book;
+import miHexagonal.core.driven_ports.BookRepository;
 
 public class BookServiceImpl implements BookService {
 	private BookRepository bookRepository;
